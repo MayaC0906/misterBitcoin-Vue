@@ -1,29 +1,27 @@
-# misterBitcoin-vue
+# Mister Bitcoin Mini App (Vue)
 
-This template should help get you started developing with Vue 3 in Vite.
+Welcome to Mister Bitcoin Mini App! This small project serves as a playground to experience the Vue.js framework. It includes frontend components, SCSS styling, and API calls.
 
-## Recommended IDE Setup
+## Features:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- **Frontend Components:** Explore various Vue components utilized in this app, showcasing different aspects of building user interfaces with Vue.js.
+- **SCSS Styling:** Witness the power of SCSS for styling the app, making it visually appealing and customizable.
+- **API Calls:** Utilize API calls within the app to showcase the ability to interact with external services.
 
-## Customize configuration
+## Usage:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+To run the app locally:
 
-## Project Setup
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Install dependencies using `npm install`.
+4. Start the development server with `npm run serve`.
+5. Open your browser and visit `http://localhost:8080`.
 
-```sh
-npm install
-```
+## Credits:
 
-### Compile and Hot-Reload for Development
+- Built with Vue.js framework.
 
-```sh
-npm run dev
-```
+## Contributors:
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- Maya Cohen
